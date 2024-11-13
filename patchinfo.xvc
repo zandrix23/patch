@@ -1,5 +1,5 @@
-DataTable\Character.edf 216063ddec7f9bf60530f55c8c42ab0c8ee46982
-DataTable\en-gb\NDCharacter.edf 9365fdfdad04f417bbf3a81819f5275c4e659f8e
+DataTable\Character.edf 12103f5117ab0e51f32c4f98eb9e8ebd8ade70dd
+DataTable\en-gb\NDCharacter.edf 17acf6551b73fad54efc044d0b3617b0c2ce7d6f
 DataTable\en-gb\NDEventShip.edf e939a04f265c3ca61a5ceeccd043dda64ffa96cd
 DataTable\en-gb\NDItem.edf 2ba68479a4405bf49bda8e008b7ddbc1f2a9cb99
 DataTable\en-gb\NDItemCash.edf c71c6b074d8538edc4d49f6ca4bfbc0e22211143
@@ -31,7 +31,8 @@ SpriteImage\ads\RFv22.png 50c8dec220a1fd83e79ad4bb9266f16346713791
 SpriteImage\ads\RFv2Banner.png 84a437b70a46c8b1b2ab147b29ae97fa65084606
 SpriteImage\ads\v1.png 9f4a7031d34dee9c49dea1653ff9beb1f2252015
 SpriteImage\ads\v2.png d22c9f1098ab72520479a83053895c4f522dfa9f
-SpriteImage\common\battlepass.spr 8503093e1fb87a93f0acc40c8a427878c3586575
+SpriteImage\common\battlepass.spr bbb33581d3ac4168a18f9be609dd6b54f8114b18
+SpriteImage\common\battlepass1.spr 8503093e1fb87a93f0acc40c8a427878c3586575
 SpriteImage\common\battlepassback.spr 8503093e1fb87a93f0acc40c8a427878c3586575
 SpriteImage\common\class.spr 365e9ddf16c0f87605964909aacf423479bcfba7
 SpriteImage\common\cribattle.spr 668656b14622c8a7cb088b6d733ab0b1a43bab7c
