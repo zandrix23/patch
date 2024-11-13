@@ -2,7 +2,7 @@ DataTable\Character.edf 12103f5117ab0e51f32c4f98eb9e8ebd8ade70dd
 DataTable\en-gb\NDCharacter.edf 17acf6551b73fad54efc044d0b3617b0c2ce7d6f
 DataTable\en-gb\NDEventShip.edf e939a04f265c3ca61a5ceeccd043dda64ffa96cd
 DataTable\en-gb\NDItem.edf 2ba68479a4405bf49bda8e008b7ddbc1f2a9cb99
-DataTable\en-gb\NDItemCash.edf c71c6b074d8538edc4d49f6ca4bfbc0e22211143
+DataTable\en-gb\NDItemCash.edf 3f32c108dadc477f5b581624ac53d2f7f466ab31
 DataTable\en-gb\NDLanguage.edf 1fb09cb076fac618e2205913ad5c3c97412dc6a1
 DataTable\en-gb\NDMap.edf ea7f230a020b052b237d25a56d8cbef80cdf4b8c
 DataTable\en-gb\NDMsgEvent.edf f928ec2ee83bc586c93560d8a74aa32ef04ecdc0
@@ -12,7 +12,7 @@ DataTable\en-gb\NDSkillForce.edf 6be0360b70882cdffa0766e52e26d9b7b5d24642
 DataTable\en-gb\NDStore.edf 0864dcaf8e2812a41de9d48111c1ec4b23d7dd03
 DataTable\EventShip.edf 01e8f4b68500f4e9b18ad5658d5257b43d6ad079
 DataTable\Item.edf 02d546ace36e473bbe10358fea17a39f5b76c567
-DataTable\ItemCash.edf a6ecbc37cca3ae156533f34a6c64ecd6d0caaaba
+DataTable\ItemCash.edf 8e2cfcb89ed2058f4680b9c2cdd87e781b23dafc
 DataTable\ItemCombine.edf f4ae14cfdd7e508d963c6aa76c71ba6e3f5d95a1
 DataTable\ItemPremium.edf 711b70b827326720c537003a3fc115c0570cdaeb
 DataTable\ItemSetEffect.edf 634f150fb295b7671a1dfee943be0407b3ecb38c
