@@ -24,7 +24,7 @@ DataTable\Quest.edf 3403bcd735bc815ef51d7ddb17bbaaab629aa7ed
 DataTable\Resource.edf 78bd8138a7a78071acdeef8a6dadeb6bacf1e4c4
 DataTable\SkillForce.edf 767b76ea83cd9b8b278c657bacdffbded11cacba
 DataTable\Store.edf 8b61792129a89f2914011eea227742a2aa0a1ba1
-RF_Online.bin aa1b5eb848ceedb4f25dfc3afe0ddb769d0c9814
+RF_Online.bin 78587554481ce01c3b1c9ac4b283966f0bf989b4
 SpriteImage\ads\available.png 493b7f88e70475698388e11a3fe9444c1f60a478
 SpriteImage\ads\init.ini ec0cb9939043ec428eff5c7efa92a511d7208d2c
 SpriteImage\ads\RFv2.png 9f4a7031d34dee9c49dea1653ff9beb1f2252015
@@ -72,4 +72,3 @@ SpriteImage\ru-ru\item.spr d155faa3ba00d41bb3919f8495f9d83e9a365b4d
 SpriteImage\ru-ru\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\ru-ru\loading.spr de489a14582e07448eb046d3b057d736ec6b2697
 SpriteImage\ru-ru\login.spr 75541505a4858bda51ec16eff173b8b6ef680309
-System\accounts.json eb39db9338ffe06d391ab395c225e1bbcb30f799
